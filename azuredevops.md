@@ -1,6 +1,10 @@
 
 
-![image](https://user-images.githubusercontent.com/33985509/102000797-42c32b00-3ceb-11eb-830c-b1aba70b2896.png)
+# Azure Devops 
+
+
+
+## steps
 
 
 
