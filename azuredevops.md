@@ -40,3 +40,10 @@ save and run
 
 
 
+![image](https://user-images.githubusercontent.com/33985509/102000668-122ec180-3cea-11eb-86f4-0dd8de3b7779.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/102000694-5de16b00-3cea-11eb-8139-1719d7a09330.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/102000721-8bc6af80-3cea-11eb-9ce6-4567ae7f8ece.png)
