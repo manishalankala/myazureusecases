@@ -5,7 +5,7 @@
 
 2. Disks
 
-3. network
+3. Network
 
 4. Management
 
