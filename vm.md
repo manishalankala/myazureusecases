@@ -1,15 +1,15 @@
 
 
 
-Create windows VM
+1. Create windows or Linux VM
 
-Disks
+2. Disks
 
-network
+3. network
 
-Management
+4. Management
 
-Tags
+5. Tags
 
 
 # Create windows VM
