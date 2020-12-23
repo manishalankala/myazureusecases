@@ -1,5 +1,17 @@
 
 
+
+Create windows VM
+
+Disks
+
+network
+
+Management
+
+Tags
+
+
 # Create windows VM
 
 -----------------------------------------------------------
