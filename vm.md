@@ -11,6 +11,8 @@
 
 5. Tags
 
+6. Review + Create
+
 
 # Create windows VM
 
@@ -57,3 +59,12 @@
 # Tags
 
 ![image](https://user-images.githubusercontent.com/33985509/103043179-4ae95900-457c-11eb-98eb-ca25bbdf8828.png)
+
+
+
+# Review + Create
+
+![image](https://user-images.githubusercontent.com/33985509/103043557-905a5600-457d-11eb-9c1e-8b56f81b5a18.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103043597-baac1380-457d-11eb-8c89-6f76eae6a319.png)
