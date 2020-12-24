@@ -75,6 +75,14 @@ RA-GZRS = Read access Geo zone redundant storage
 
 https://teststoragemine.blob.core.windows.net/mine1/IMG1.JPG
 
+![image](https://user-images.githubusercontent.com/33985509/103047331-6d36a300-458b-11eb-8623-a1bc28376f6e.png)
+
+
+Hot - Optimized for storing data that is accessed frequently.
+
+Cool - Optimized for storing data that is infrequently accessed and stored for at least 30 days.
+
+Archive - Optimized for storing data that is rarely accessed and stored for at least 180 days with flexible latency requirements (on the order of hours).
 
 
 ---------------------------------------------------------------------------------------------------------
