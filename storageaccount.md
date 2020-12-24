@@ -62,6 +62,8 @@ RA-GZRS = Read access Geo zone redundant storage
 
 ![image](https://user-images.githubusercontent.com/33985509/103046978-5774ae00-458a-11eb-925e-583574501aa4.png)
 
+![image](https://user-images.githubusercontent.com/33985509/103047559-2d23f000-458c-11eb-94c4-e8cb2cda7c28.png)
+
 ---------------------------------------------------------------------------------------------------------
 # upload item to storage
 ---------------------------------------------------------------------------------------------------------
