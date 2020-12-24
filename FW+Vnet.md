@@ -50,7 +50,7 @@ Next hop address is - Firewall private ip address
 
 
 
-Associate with subnets
+Associate with subnets :
 
 ![image](https://user-images.githubusercontent.com/33985509/103059395-46856600-45a5-11eb-8b71-14f24d182ad4.png)
 
@@ -60,3 +60,5 @@ Associate with subnets
 Add NAT rule : 
 
 ![image](https://user-images.githubusercontent.com/33985509/103059480-8a786b00-45a5-11eb-80eb-0eec3dd59ab8.png)
+
+
