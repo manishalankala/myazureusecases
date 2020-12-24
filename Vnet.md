@@ -1,5 +1,21 @@
 
 
+
+
+1.Create a Virtual Network and the Primary Subnet
+
+2.Create the Secondary Subnet
+
+3.Create Network Security Group
+
+4.Create and Associate to Network Security Group
+
+
+
+
+
+
+
 ## Create a Virtual Network and the Primary Subnet
 
 -----------------------------------------------------------------------------------------------------
@@ -24,7 +40,7 @@
 
 
 
-## Create  Network Security Group
+## Create Network Security Group
 
 -------------------------------------------------------------------------------------------------------
 
