@@ -100,3 +100,6 @@ https://docs.microsoft.com/en-us/azure/storage/common/account-encryption-key-cre
 
 
 https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers?tabs=azure-portal
+
+
+https://stackoverflow.com/questions/44467010/what-is-azure-lease-blob
