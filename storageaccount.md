@@ -69,6 +69,14 @@ RA-GZRS = Read access Geo zone redundant storage
 
 ![image](https://user-images.githubusercontent.com/33985509/103047067-960a6880-458a-11eb-8c16-f11b1ac832a5.png)
 
+
+![image](https://user-images.githubusercontent.com/33985509/103047298-4d9f7a80-458b-11eb-883b-532c8aea9d97.png)
+
+
+https://teststoragemine.blob.core.windows.net/mine1/IMG1.JPG
+
+
+
 ---------------------------------------------------------------------------------------------------------
 # Reference links
 ---------------------------------------------------------------------------------------------------------
