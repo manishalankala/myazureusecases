@@ -33,3 +33,30 @@ VM :
 Create Firewall : 
 
 ![image](https://user-images.githubusercontent.com/33985509/103058668-22c12080-45a3-11eb-80e3-b1ee0bae35df.png)
+
+
+Create RT : 
+
+![image](https://user-images.githubusercontent.com/33985509/103058951-ed690280-45a3-11eb-803f-916778522daa.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103059188-ae877c80-45a4-11eb-8abd-fcf7ddf2b3b0.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103059273-eabadd00-45a4-11eb-9a9a-d6d67f04d111.png)
+
+
+Next hop address is - Firewall private ip address
+
+
+
+Associate with subnets
+
+![image](https://user-images.githubusercontent.com/33985509/103059395-46856600-45a5-11eb-8b71-14f24d182ad4.png)
+
+![image](https://user-images.githubusercontent.com/33985509/103059442-6c126f80-45a5-11eb-8921-55d6bc2af0b0.png)
+
+
+Add NAT rule : 
+
+![image](https://user-images.githubusercontent.com/33985509/103059480-8a786b00-45a5-11eb-80eb-0eec3dd59ab8.png)
