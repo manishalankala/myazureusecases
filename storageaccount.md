@@ -1,4 +1,20 @@
 
+1.Create a Storage Account
+
+2.Enable versioning & soft delete
+
+3.Create a Blob Container
+
+4.upload item to storage
+
+5.Reference links
+
+
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------
 # Create a Storage Account
