@@ -38,13 +38,20 @@ RA-GZRS = Read access Geo zone redundant storage
 # Create a Blob Container
 ---------------------------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/33985509/103046846-ecc37280-4589-11eb-93d1-a365557f189f.png)
 
+![image](https://user-images.githubusercontent.com/33985509/103046929-3449fe80-458a-11eb-8d7d-d6743ffd7554.png)
+
+![image](https://user-images.githubusercontent.com/33985509/103046953-47f56500-458a-11eb-9350-2f469ae56415.png)
+
+![image](https://user-images.githubusercontent.com/33985509/103046978-5774ae00-458a-11eb-925e-583574501aa4.png)
 
 ---------------------------------------------------------------------------------------------------------
 # upload item to storage
 ---------------------------------------------------------------------------------------------------------
 
 
+![image](https://user-images.githubusercontent.com/33985509/103047067-960a6880-458a-11eb-8c16-f11b1ac832a5.png)
 
 ---------------------------------------------------------------------------------------------------------
 # Reference links
