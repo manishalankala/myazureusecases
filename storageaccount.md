@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/33985509/103046196-a705aa80-4587-11eb-9ad5-b034bc4734e4.png)
 
 
-Replication
+Replication:
 
 LRS = Locally redundant storage
 
