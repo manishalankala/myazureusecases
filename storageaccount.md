@@ -95,3 +95,6 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/network-file-system-protoco
 
 
 https://docs.microsoft.com/en-us/azure/storage/common/account-encryption-key-create?tabs=powershell#register-to-use-the-account-encryption-key
+
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers?tabs=azure-portal
