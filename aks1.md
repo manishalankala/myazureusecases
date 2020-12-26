@@ -99,4 +99,21 @@ Click Review + create
 ![image](https://user-images.githubusercontent.com/33985509/103160093-410c6380-47d1-11eb-905e-66e45ccbb757.png)
 
 
-#Run and Test an App on the Virtual Nodes
+
+az aks get-credentials -g 409-f254f4d6-create-an-aks-cluster-that-uses-azure -n cluster01
+
+![image](https://user-images.githubusercontent.com/33985509/103160125-a2343700-47d1-11eb-8497-b24342570e47.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103160190-1b338e80-47d2-11eb-8daf-1d8b0d9c640a.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103160272-17ecd280-47d3-11eb-86c9-758dcb2a2b71.png)
+
+
+kubectl run -it virtula-node-test --image=debian
+
+
+![image](https://user-images.githubusercontent.com/33985509/103160321-cf81e480-47d3-11eb-84d6-27b9e317f596.png)
+
+curl -L http://10.0.8.4
