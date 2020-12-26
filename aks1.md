@@ -78,4 +78,6 @@ In Container monitoring, click Disabled
 Click Review + create
 
 
+![image](https://user-images.githubusercontent.com/33985509/103159464-018e4900-47ca-11eb-9d24-dd6d343f8f55.png)
+
 #Run and Test an App on the Virtual Nodes
