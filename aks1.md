@@ -61,7 +61,9 @@ Go to kubernetes services
 ![image](https://user-images.githubusercontent.com/33985509/103159358-c93a3b00-47c8-11eb-97a5-6ec1cf9c1a54.png)
 
 
+![image](https://user-images.githubusercontent.com/33985509/103159983-37363080-47d0-11eb-92f3-cb793dee7169.png)
 
+![image](https://user-images.githubusercontent.com/33985509/103159991-43ba8900-47d0-11eb-877b-b3bd9da52457.png)
 
 
 
