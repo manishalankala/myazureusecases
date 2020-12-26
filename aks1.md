@@ -3,13 +3,14 @@
 
 # Create resource group
 
-409-1d318bed-create-an-aks-cluster-that-uses-azure
+409-f254f4d6-create-an-aks-cluster-that-uses-azure
+
 
 
 
 # Create storage account
 
-name : storkr5rzdwthgiak
+name : storaazr2umked42y
 
 Location ; Central US
 
@@ -79,5 +80,10 @@ Click Review + create
 
 
 ![image](https://user-images.githubusercontent.com/33985509/103159464-018e4900-47ca-11eb-9d24-dd6d343f8f55.png)
+
+
+
+![image](https://user-images.githubusercontent.com/33985509/103159502-6b0e5780-47ca-11eb-8f2b-55ea247180bd.png)
+
 
 #Run and Test an App on the Virtual Nodes
