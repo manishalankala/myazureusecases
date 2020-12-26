@@ -1,5 +1,25 @@
 
 
+1. Create resource group
+
+2. Create storage account
+
+3. Create a Virtual Network
+
+4. Create AKS Cluster
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Create resource group
 
