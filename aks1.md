@@ -31,11 +31,11 @@ Account kind : Storage (general purpose v1)
 az network vnet create -g 409-f254f4d6-create-an-aks-cluster-that-uses-azure -n myvnet --address-prefix 10.0.0.0/16 --subnet-name default --subnet-prefix 10.0.0.0/21
 
 
+![image](https://user-images.githubusercontent.com/33985509/103159920-7fa11e80-47cf-11eb-80d6-9f0dc9cf1509.png)
 
-![image](https://user-images.githubusercontent.com/33985509/103159294-08b45780-47c8-11eb-8833-68f8bb58f96a.png)
 
+![image](https://user-images.githubusercontent.com/33985509/103159923-90519480-47cf-11eb-9ebb-34e1a09e79e8.png)
 
-![image](https://user-images.githubusercontent.com/33985509/103159304-22559f00-47c8-11eb-8814-28d34a478146.png)
 
 
 
