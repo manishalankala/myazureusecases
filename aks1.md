@@ -100,6 +100,9 @@ Click Review + create
 
 
 
+az aks list
+
+
 az aks get-credentials -g 409-f254f4d6-create-an-aks-cluster-that-uses-azure -n cluster01
 
 
@@ -119,6 +122,9 @@ kubectl run -it virtula-node-test --image=debian
 ![image](https://user-images.githubusercontent.com/33985509/103160321-cf81e480-47d3-11eb-84d6-27b9e317f596.png)
 
 curl -L http://10.0.8.4
+
+
+kubectl get pods -n kube-system
 
 
 kubernetes cluster ip - 10.1.0.1
