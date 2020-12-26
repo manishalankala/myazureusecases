@@ -80,11 +80,23 @@ In Container monitoring, click Disabled
 Click Review + create
 
 
-![image](https://user-images.githubusercontent.com/33985509/103159464-018e4900-47ca-11eb-9d24-dd6d343f8f55.png)
+
+![image](https://user-images.githubusercontent.com/33985509/103160018-7bc1cc00-47d0-11eb-9c59-66bdbae5829f.png)
 
 
+![image](https://user-images.githubusercontent.com/33985509/103160035-b9bef000-47d0-11eb-8562-f957e9390460.png)
 
-![image](https://user-images.githubusercontent.com/33985509/103159502-6b0e5780-47ca-11eb-8f2b-55ea247180bd.png)
+
+![image](https://user-images.githubusercontent.com/33985509/103160063-f38ff680-47d0-11eb-985f-66576129932a.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103160072-0acee400-47d1-11eb-98d8-67e5a97de523.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103160075-1b7f5a00-47d1-11eb-894e-2b5485ec081c.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103160093-410c6380-47d1-11eb-905e-66e45ccbb757.png)
 
 
 #Run and Test an App on the Virtual Nodes
