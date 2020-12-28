@@ -1,4 +1,23 @@
+## Contents
 
+
+Check Azure Resource Provider
+
+Creating a Resource Group
+
+Current AKS Versions
+
+Creating the AKS Cluster
+
+Retrieving your Credentials
+
+Validating the Cluster
+
+Deploying 
+
+Delete
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 ## Requirements :
 
