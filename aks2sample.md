@@ -22,7 +22,16 @@ Launch Cloud Shell
 
 
 
-'az account show'
+
+
+
+
+"az account show"
+
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/33985509/103198950-e7e42300-48e9-11eb-8d4b-1151dc2948a1.png)
