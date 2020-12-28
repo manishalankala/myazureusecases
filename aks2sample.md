@@ -82,7 +82,6 @@ providers are not registered, run the az provider register command as shown belo
 az provider register --namespace PROVIDER_NAME --wait
 
 
-
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
