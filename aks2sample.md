@@ -171,14 +171,20 @@ vmSize": "Standard_DS2_v2"
 ## Retrieving your Credentials
 
 
-
-
-
-
-
-
-
 az aks get-credentials --resource-group 1-82ea24fa-playground-sandbox --name my-cluster
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+## Validating the Cluster
+
+kubectl get nodes
+
+
+![image](https://user-images.githubusercontent.com/33985509/103199836-18c55780-48ec-11eb-8b00-c53ac455c67f.png)
+
 
 
 kubectl cluster-info
@@ -190,11 +196,20 @@ CoreDNS is running at https://my-cluster-1-82ea24fa-playg-4cedc5-53c82bfa.hcp.ea
 Metrics-server is running at https://my-cluster-1-82ea24fa-playg-4cedc5-53c82bfa.hcp.eastus2.azmk8s.io:443/api/v1/namespaces/kube-system/services/https:metrics-server:/proxy
 
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Deploying a Sample Application
+
+
 kubectl apply -f azure-vote-all-in-one-redis.yaml
 
 ![image](https://user-images.githubusercontent.com/33985509/103198241-1cef7600-48e8-11eb-9bba-fd4463a21dfe.png)
 
 ![image](https://user-images.githubusercontent.com/33985509/103198429-99825480-48e8-11eb-9c59-94b6fd684541.png)
+
+
+
 
 
 
