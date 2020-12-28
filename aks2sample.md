@@ -87,7 +87,7 @@ az provider register --namespace PROVIDER_NAME --wait
 
 ## Creating a Resource Group
 
-az group create --name my-cluster --location eastus2
+az group create --name 1-82ea24fa-playground-sandbox --location eastus2
 
 az group list
 
