@@ -196,6 +196,11 @@ CoreDNS is running at https://my-cluster-1-82ea24fa-playg-4cedc5-53c82bfa.hcp.ea
 Metrics-server is running at https://my-cluster-1-82ea24fa-playg-4cedc5-53c82bfa.hcp.eastus2.azmk8s.io:443/api/v1/namespaces/kube-system/services/https:metrics-server:/proxy
 
 
+
+![image](https://user-images.githubusercontent.com/33985509/103200080-bf115d00-48ec-11eb-99f9-cb7363bfdff9.png)
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -210,8 +215,16 @@ kubectl apply -f azure-vote-all-in-one-redis.yaml
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Yaml
+
+
+
+
+
+azure-vote-all-in-one-redis.yaml
 
 
 ```
@@ -299,6 +312,11 @@ spec:
 
 
 ```
+
+
+## Delete
+
+
 
 
 az group delete --name my-cluster
