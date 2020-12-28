@@ -1,10 +1,96 @@
 
 
+## Requirements :
+
+A Microsoft Azure subscription
+
+Owner or User Access Administrator role on the Azure subscription
+
+Permission to create and register applications on Azure Active Directory
+
+
+Launch Cloud Shell
+
+![image](https://user-images.githubusercontent.com/33985509/103198761-74421600-48e9-11eb-8527-27d6f6b25640.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103198785-7dcb7e00-48e9-11eb-92a0-e975970bef07.png)
+
+
+![image](https://user-images.githubusercontent.com/33985509/103198852-a5bae180-48e9-11eb-8356-a5b926be78a6.png)
 
 
 
 
+az account show
 
+
+![image](https://user-images.githubusercontent.com/33985509/103198950-e7e42300-48e9-11eb-8d4b-1151dc2948a1.png)
+
+
+
+az account list
+
+
+select the correct account by noting the subscription name field and running
+
+
+az account select --subscription SUBSCRIPTION_NAME
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+## Check Azure Resource Provider
+
+
+az provider list --query "[?registrationState=='Registered'].{Name:namespace, State:registrationState}" -o table
+
+
+
+providers are not registered, run the az provider register command as shown below, replacing the PROVIDER_NAME with the actual name of the provider.
+
+
+az provider register --namespace PROVIDER_NAME --wait
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+## Creating a Resource Group
+
+az group create --name my-cluster --location eastus2
+
+az group list
+
+![image](https://user-images.githubusercontent.com/33985509/103199290-d2232d80-48ea-11eb-96f0-1cfad70aec01.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+## Current AKS Versions
+
+az aks get-versions --location eastus2 -o table
+
+![image](https://user-images.githubusercontent.com/33985509/103199399-131b4200-48eb-11eb-8adf-c6321221e957.png)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+## Creating the AKS Cluster
+
+
+
+az aks create subcommand also automatically creates a service principal for the cluster to use when interacting with other services in Microsoft Azure
+
+
+
+
+az aks create --resource-group 1-82ea24fa-playground-sandbox --name my-cluster --kubernetes-version 1.18.10 --location eastus2 --node-count 3 --generate-ssh-keys
 
 
 resource-group: 1-82ea24fa-playground-sandbox
@@ -23,9 +109,8 @@ generate-ssh-keys
 
 
 
-az aks create --resource-group 1-82ea24fa-playground-sandbox --name my-cluster --kubernetes-version 1.18.10 --location eastus2 --node-count 3 --generate-ssh-keys
 
-
+```
 "dnsServiceIp": "10.0.0.10",
 
 "dockerBridgeCidr": "172.17.0.1/16",
@@ -68,6 +153,20 @@ vmSize": "Standard_DS2_v2"
   
 
 "nodeResourceGroup": "MC_1-82ea24fa-playground-sandbox_my-cluster_eastus2"
+
+```
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+## Retrieving your Credentials
+
+
+
+
+
+
+
 
 
 az aks get-credentials --resource-group 1-82ea24fa-playground-sandbox --name my-cluster
@@ -175,7 +274,7 @@ spec:
     app: azure-vote-front
 
 
-
-
-
 ```
+
+
+az group delete --name my-cluster
